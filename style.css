@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: #02518A;
+    color: white;
+    width: auto;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+}
